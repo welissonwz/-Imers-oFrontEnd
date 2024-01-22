@@ -1,0 +1,66 @@
+
+
+/* Reset CSS */
+
+/* Remove a margem e o preenchimento padrão */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+dl,
+dd,
+form,
+fieldset,
+legend,
+figure,
+table,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+/* Define o tamanho da fonte padrão como 16px */
+html {
+  font-size: 16px;
+}
+
+/* Remove a decoração de link padrão */
+a {
+  text-decoration: none;
+}
+
+/* Remove a lista de pontos */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Define a cor do texto padrão como preto */
+body {
+  color: #000;
+}
+
+/* Define a família de fontes padrão como sans-serif */
+body,
+input,
+textarea,
+select,
+button {
+  font-family: Arial, sans-serif;
+}
+
+/* Define a largura e altura padrão para elementos de mídia incorporados */
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
